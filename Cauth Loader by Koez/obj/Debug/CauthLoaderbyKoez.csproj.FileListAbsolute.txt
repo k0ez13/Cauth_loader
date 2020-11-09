@@ -1,0 +1,12 @@
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\bin\Debug\CauthLoaderbyKoez.exe.config
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\bin\Debug\CauthLoaderbyKoez.exe
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\bin\Debug\CauthLoaderbyKoez.pdb
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.csprojAssemblyReference.cache
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.Login.resources
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.Properties.Resources.resources
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.Register.resources
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.csproj.GenerateResource.cache
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.csproj.CoreCompileInputs.cache
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.exe
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.pdb
+C:\Users\Koez\source\repos\CauthLoaderbyKoez\obj\Debug\CauthLoaderbyKoez.Main.resources
